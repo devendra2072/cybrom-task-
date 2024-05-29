@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+.main{
+    border: 5px solid black;
+    width: 300px;
+}
+.main button{
+    border-radius: 20px;
+    background-color: blue; color: white;
+
+}
+  .main img{
+    padding: 15px;
+}
+.main h1{
+
+    text-align: center;
+    t
+}
+      
